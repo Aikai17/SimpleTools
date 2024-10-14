@@ -1,0 +1,10 @@
+--resource
+/home/Aikai/Projects/SimpleTool/.qt/rcc/qmake_Simple.qrc
+--resource
+/home/Aikai/Projects/SimpleTool/.qt/rcc/SimpleTool_raw_qml_0.qrc
+/qt/qml/Simple/Colors.qml
+/qt/qml/Simple/ColorpickerItem.qml
+/qt/qml/Simple/ConverterItem.qml
+/qt/qml/Simple/Main.qml
+/qt/qml/Simple/SliderRGB.qml
+/qt/qml/Simple/UrlencoderItem.qml

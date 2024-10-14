@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/arrows.png</file>
+        <file>images/white_arrows.png</file>
+    </qresource>
+</RCC>

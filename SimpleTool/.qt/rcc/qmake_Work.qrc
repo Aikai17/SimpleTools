@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Work">
+    <file alias="qmldir">/home/Aikai/Projects/SimpleTools/Work/qmldir</file>
+  </qresource>
+</RCC>
+

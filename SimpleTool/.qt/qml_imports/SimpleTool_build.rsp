@@ -1,0 +1,14 @@
+-rootPath
+/home/Aikai/Projects/SimpleTool
+-cmake-output
+-output-file
+/home/Aikai/Projects/SimpleTool/.qt/qml_imports/SimpleTool_build.cmake
+-importPath
+/home/Aikai/Projects/SimpleTool/Simple
+-importPath
+/home/Aikai/Projects/SimpleTool
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/Aikai/Projects/SimpleTool/.qt/rcc/qmake_Simple.qrc
+/home/Aikai/Projects/SimpleTool/.qt/rcc/SimpleTool_raw_qml_0.qrc

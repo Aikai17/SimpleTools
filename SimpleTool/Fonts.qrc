@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/AmaticSC-Regular.ttf</file>
+        <file>fonts/Quicksand-Regular.otf</file>
+    </qresource>
+</RCC>

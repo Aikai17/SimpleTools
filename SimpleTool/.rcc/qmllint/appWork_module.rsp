@@ -1,0 +1,10 @@
+-I
+/home/Aikai/Projects/Work
+-I
+/usr/lib/qt6/qml
+--resource
+/home/Aikai/Projects/Work/.qt/rcc/qmake_Work.qrc
+--resource
+/home/Aikai/Projects/Work/.qt/rcc/appWork_raw_qml_0.qrc
+--module
+Work

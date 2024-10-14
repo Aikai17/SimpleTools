@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/Work/">
+    <file alias="Main.qml">/home/Aikai/Projects/Work/Main.qml</file>
+    <file alias="ConverterItem.qml">/home/Aikai/Projects/Work/ConverterItem.qml</file>
+    <file alias="UrlencoderItem.qml">/home/Aikai/Projects/Work/UrlencoderItem.qml</file>
+    <file alias="ColorpickerItem.qml">/home/Aikai/Projects/Work/ColorpickerItem.qml</file>
+    <file alias="SliderRGB.qml">/home/Aikai/Projects/Work/SliderRGB.qml</file>
+    <file alias="Colors.qml">/home/Aikai/Projects/Work/Colors.qml</file>
+    <file alias="Images.qrc">/home/Aikai/Projects/Work/Images.qrc</file>
+    <file alias="Fonts.qrc">/home/Aikai/Projects/Work/Fonts.qrc</file>
+  </qresource>
+</RCC>
+

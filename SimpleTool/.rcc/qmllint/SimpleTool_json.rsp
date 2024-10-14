@@ -1,0 +1,17 @@
+--bare
+-I
+/home/Aikai/Projects/SimpleTool
+-I
+/usr/lib/qt6/qml
+--resource
+/home/Aikai/Projects/SimpleTool/.qt/rcc/qmake_Simple.qrc
+--resource
+/home/Aikai/Projects/SimpleTool/.qt/rcc/SimpleTool_raw_qml_0.qrc
+/home/Aikai/Projects/SimpleTool/Colors.qml
+/home/Aikai/Projects/SimpleTool/ColorpickerItem.qml
+/home/Aikai/Projects/SimpleTool/ConverterItem.qml
+/home/Aikai/Projects/SimpleTool/Main.qml
+/home/Aikai/Projects/SimpleTool/SliderRGB.qml
+/home/Aikai/Projects/SimpleTool/UrlencoderItem.qml
+--json
+/home/Aikai/Projects/SimpleTool/SimpleTool_qmllint.json
