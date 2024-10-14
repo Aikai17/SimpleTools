@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appSimpleTool_FILE /home/Aikai/Projects/SimpleTool/appSimpleTool)
+set(__QT_DEPLOY_TARGET_appSimpleTool_TYPE EXECUTABLE)

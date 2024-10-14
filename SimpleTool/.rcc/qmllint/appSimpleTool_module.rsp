@@ -1,0 +1,10 @@
+-I
+/home/Aikai/Projects/SimpleTool
+-I
+/usr/lib/qt6/qml
+--resource
+/home/Aikai/Projects/SimpleTool/.qt/rcc/qmake_Simple.qrc
+--resource
+/home/Aikai/Projects/SimpleTool/.qt/rcc/appSimpleTool_raw_qml_0.qrc
+--module
+Simple
