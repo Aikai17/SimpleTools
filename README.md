@@ -1,7 +1,7 @@
 # Simple Tools
 
 'Simple Tools' is a collection of useful tools for a programmer with simple and intuitive interface.
-![alt text](https://github.com/Aikai17/SimpleTools/tree/main/.github/screenshots/SimpleTool_Overview.png)
+![app](https://github.com/Aikai17/SimpleTools/tree/main/.github/screenshots/SimpleTool_Overview.png "Application")
 ## Hotkeys
 ```bash
 ---Main Window---
